@@ -1,0 +1,4 @@
+C:\Users\sswin\OneDrive\Documents\Visual Studio 2015\Projects\TypeScriptFunctions\src\TypeScriptFunctions\wwwroot\app.js
+C:\Users\sswin\OneDrive\Documents\Visual Studio 2015\Projects\TypeScriptFunctions\src\TypeScriptFunctions\wwwroot\app.js.map
+C:\Users\sswin\OneDrive\Documents\Visual Studio 2015\Projects\TypeScriptFunctions\src\TypeScriptFunctions\wwwroot\app.js
+C:\Users\sswin\OneDrive\Documents\Visual Studio 2015\Projects\TypeScriptFunctions\src\TypeScriptFunctions\wwwroot\app.js.map
